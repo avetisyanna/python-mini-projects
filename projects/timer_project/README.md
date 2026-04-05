@@ -1,4 +1,4 @@
-# Station Project 3: Beginner Countdown Timer
+# ⏳ Station Project 3: Beginner Countdown Timer
 
 A simple, terminal-based countdown timer built in Python. This project was designed to demonstrate core programming logic without relying on external libraries.
 
@@ -23,3 +23,4 @@ Instead of using a standard sleep function, this script uses a **"Busy-Wait" loo
 4. Run the script using:
    ```bash
    python bonus_project.py
+   ```
