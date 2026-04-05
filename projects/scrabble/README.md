@@ -1,4 +1,4 @@
-# Scrabble Scoring Program
+# 🔠 Scrabble Scoring Program
 
 This is a beginner-friendly Python program that calculates **Scrabble scores** for players.  
 It uses **dictionaries** to store letters, points, players, and their words.  
@@ -6,7 +6,7 @@ You can also **add new words** for players and find out who the **winner** is!
 
 ---
 
-## Features
+## ✨ Features
 
 - Maps each letter to its Scrabble point value.  
 - Scores individual words (works with uppercase and lowercase).  
@@ -17,7 +17,7 @@ You can also **add new words** for players and find out who the **winner** is!
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. Make sure you have **Python 3** installed.  
 2. Save the file as `Scrabble.py`.  
@@ -25,3 +25,4 @@ You can also **add new words** for players and find out who the **winner** is!
 
 ```bash
 python Scrabble.py
+```
