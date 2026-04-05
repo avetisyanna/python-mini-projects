@@ -1,6 +1,6 @@
-# Thread Shed
+# 🧶 Thread Shed
 
-## Description
+## 📝 Description
 Thread Shed is a Python project that helps a sewing hobby shop keep track of daily sales. The shop has an old register system that saves all the sales information in one long string called `daily_sales`. Each sale has:
 
 - The customer’s name  
@@ -17,7 +17,7 @@ This project shows how to use Python to:
 
 ---
 
-## How it works
+## ⚙️ How it works
 1. The program starts with the big `daily_sales` string.  
 2. It cleans up the string and separates it into individual sales.  
 3. For each sale, it saves:  
@@ -30,7 +30,7 @@ This project shows how to use Python to:
 
 ---
 
-## How to run
+## 🚀 How to run
 1. Clone the repository:
 
 ```bash
